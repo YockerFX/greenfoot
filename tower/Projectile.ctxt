@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Projectile
+comment1.params=image
+comment1.target=Projectile(java.lang.String)
+comment2.params=
+comment2.target=void\ act()
+numComments=3

@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Road
+comment1.params=image\ straight
+comment1.target=Road(java.lang.String,\ boolean)
+comment2.params=image\ turn
+comment2.target=Road(java.lang.String,\ int)
+comment3.params=
+comment3.target=void\ act()
+numComments=4

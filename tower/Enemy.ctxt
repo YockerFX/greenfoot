@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Enemy
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=void\ movement()
+comment3.params=
+comment3.target=void\ gotHit()
+comment4.params=level
+comment4.target=Enemy(int)
+numComments=5

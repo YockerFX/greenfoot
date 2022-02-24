@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Menu
+comment1.params=image\ link
+comment1.target=Menu(java.lang.String,\ greenfoot.World)
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ endOfRoad()
+numComments=4
