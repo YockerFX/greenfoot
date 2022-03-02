@@ -81,7 +81,7 @@ public class Enemy extends Actor
         if(level == 1)
         {
             setImage("enemy/yellow.png");
-            speed += 1;
+            speed += 2;
         }
         if(level == 2)
         {
@@ -93,13 +93,13 @@ public class Enemy extends Actor
         {
             setImage("enemy/aqua.png");
             enemyHealth += 2;
-            speed += 3;
+            speed += 4;
         }
         if(level == 4)
         {
             setImage("enemy/blue.png");
             enemyHealth += 10;
-            speed += 1;
+            speed += 2;
         }
         if(level == 5)
         {
