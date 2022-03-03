@@ -87,6 +87,7 @@
 :clock1: Wave Display
 
 :white_check_mark: Leben
+
 :clock1: Buttons
 
 >Reset
